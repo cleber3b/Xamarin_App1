@@ -57,6 +57,6 @@
     <Folder Include="$(MSBuildThisFileDirectory)Helpers\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="$(MSBuildThisFileDirectory)teste_comit.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)Avisos_Versionamento.txt" />
   </ItemGroup>
 </Project>
